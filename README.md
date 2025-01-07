@@ -105,6 +105,4 @@ Special thanks to:
 - [Contributor 1](https://github.com/username)  
 - [Contributor 2](https://github.com/username)  
 
---- 
 
-Let me know if you’d like to customize this for a specific project!
